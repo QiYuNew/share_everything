@@ -1,0 +1,20 @@
+{
+    "name": "discovery", 
+    "host": "xfer.discovery.neu.edu",
+    "protocol": "sftp",
+    "port": 22,
+    "username": "$USERNAME",
+    "password":"$PASSWORD",
+    "remotePath": "/scratch/$USERNAME",
+    "uploadOnSave": true,
+    "ignore": [
+        "**/.vscode/**",
+        "**/.git/**",
+        "**/.DS_Store"
+    ],
+    "watcher": {
+        "files": "*",
+        "autoUpload": false,
+        "autoDelete": false
+    }
+}
