@@ -1,6 +1,6 @@
 # SFTP configuration for VS Code
 
-## Main reason: It's convenient. When you do "ctrl-s", all my changes can be saved on the remote server.
+## Main reason: It's convenient. When you do "ctrl-s", all your changes can be saved on the remote server.
 
 ## How to use
 
