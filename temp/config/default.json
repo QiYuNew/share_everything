@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://qiyupass:5fo9FrpiYSb97Y0h@cluster0.dcstx.mongodb.net/ac?retryWrites=true&w=majority",
+  "jwtSecret": "myapprecordertoken"
+}
